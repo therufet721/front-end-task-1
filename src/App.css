@@ -1,0 +1,110 @@
+/* Block: app-container */
+.app-container {
+  display: flex;
+  padding: 20px;
+}
+
+/* Block: group-list */
+.group-list {
+  margin-top: 64px;
+  width: 30%;
+  border-right: 3px solid #000;
+  padding: 10px 0px 10px 10px;
+  z-index: 0;
+}
+
+.group-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  cursor: pointer;
+  border-bottom: 2px solid #000;
+  border-left: 2px solid #000;
+  border-top: 2px solid #000;
+  z-index: 1;
+  padding: 5px;
+}
+
+.group-list__button-edit,
+.group-list__button-add {
+  background: #fff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.group-list__button-add {
+  font-size: 16px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.group-list__plus-icon {
+  margin-right: 8px;
+}
+
+/* Block: role-list */
+.role-list {
+  width: 70%;
+  padding: 10px;
+}
+
+.role-list__filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.role-list__header {
+  margin-right: 10px;
+}
+
+.role-list__controls {
+  display: flex;
+  align-items: center;
+}
+
+.role-list__select,
+.role-list__input {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.role-list__select {
+  margin-right: 10px;
+}
+.role-list__item {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.role-list__checkbox {
+  margin-right: 10px;
+}
+
+.role-list__filters {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.role-list__select,
+.role-list__input {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.role-list__select {
+  margin-right: 10px;
+}
+.role-list__header {
+  margin-right: 10px;
+  font-size: 32px;
+}

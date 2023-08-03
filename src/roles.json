@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Customer Support Representative"
+  },
+  {
+    "id": 2,
+    "name": "Customer Relationship Manager"
+  },
+  {
+    "id": 3,
+    "name": "Investment Banker"
+  },
+  {
+    "id": 4,
+    "name": "Financial Analyst"
+  },
+  {
+    "id": 5,
+    "name": "Compliance Officer"
+  },
+  {
+    "id": 6,
+    "name": "Compliance Analyst"
+  },
+  {
+    "id": 7,
+    "name": "IT Support Specialist"
+  },
+  {
+    "id": 8,
+    "name": "Software Developer"
+  },
+  {
+    "id": 9,
+    "name": "HR Manager"
+  }
+]

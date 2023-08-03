@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Customer Service",
+    "roleIds": [1, 2]
+  },
+  {
+    "id": 2,
+    "name": "Investment Banking",
+    "roleIds": [3, 4]
+  },
+  {
+    "id": 3,
+    "name": "Compliance",
+    "roleIds": [5, 6]
+  },
+  {
+    "id": 4,
+    "name": "Information Technology",
+    "roleIds": [7, 8]
+  },
+  {
+    "id": 5,
+    "name": "Human Resources",
+    "roleIds": [9]
+  }
+]
